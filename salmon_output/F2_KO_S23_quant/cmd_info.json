@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.8.0",
+    "index": "mmus_index",
+    "libType": "A",
+    "mates1": "data/F2_KO_S23/F2_KO_S23_R1_001.fastq.gz",
+    "mates2": "data/F2_KO_S23/F2_KO_S23_R2_001.fastq.gz",
+    "threads": "8",
+    "validateMappings": [],
+    "output": "quants/F2_KO_S23_quant",
+    "auxDir": "aux_info"
+}
